@@ -1,4 +1,4 @@
-Roman-Numerals-Coder
+Roman Numerals Encoder
 
 
 About this Kata
